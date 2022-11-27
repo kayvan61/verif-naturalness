@@ -1,0 +1,17 @@
+./oldland-cpu/verif
+./fpga-partial-reconfig/ref_designs/s10_pcie_devkit_hpr/verif
+./fpga-partial-reconfig/ref_designs/s10_pcie_devkit_pr/verif
+./fpga-partial-reconfig/ref_designs/a10_pcie_devkit_cvp/verif
+./fpga-partial-reconfig/ref_designs/a10_pcie_devkit_cvp_hpr/verif
+./second_edition/hawkins/verif
+./zcash-fpga/aws/cl_zcash/verif
+./hw/verif
+./netfpga/lib/verilog/core/rate_limiter/verif
+./netfpga/projects/dram_router/verif
+./netfpga/projects/ddr2_blk_rdwr_test/verif
+./netfpga/projects/cpci/verif
+./netfpga/projects/dram_queue_test/verif
+./netfpga/projects/cpci_reprogrammer/verif
+./netfpga/projects/crypto_nic/verif
+./netfpga/projects/generic_reg_with_instances_test/verif
+./netfpga/projects/selftest/verif
